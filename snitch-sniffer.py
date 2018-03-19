@@ -1,5 +1,5 @@
 word1 = "hello "
-word2 = "world hope"
+word2 = "world"
 
 print(word1 + word2)
 
